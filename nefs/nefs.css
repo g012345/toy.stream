@@ -1,0 +1,208 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=PT+Serif:ital,wght@1,700&display=swap');
+@media only screen and (max-width: 1920px){
+    body{
+        font-family: 'PT Serif';
+        margin:0px;
+        padding: 0; 
+        overflow-x: hidden;
+
+    }
+    a{
+  text-decoration: none;
+    }
+    .wietbox{
+        margin:-1500px 0 0 280px ;
+        width: 1592px;
+        height:1446px;
+        background: #FFEA2F;
+    }
+
+    .head{
+        display: flex;
+    }
+    .imgheal{
+        margin: 23px 0 0 45px;
+    }
+    .mainhref{
+        margin: 48px 0 0 auto;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        text-align: right;
+        display: flex;
+    }
+    .hrevpr{
+        margin-right: 53px;
+        text-decoration: none;
+        color: black;
+    }
+    .eng{
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        display: flex;
+        margin: 45px 0 0 45px;
+    }
+    .ez{
+
+        width: 120px;
+        height: 120px;
+        background: #CE0002;
+    }
+    .nefs{
+        margin: 30px 0 0 117px;
+    }
+    .nefsh{
+        width: 603px;
+        height: 91px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 42px;
+        line-height: 85px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .flexbox{
+        display: flex;
+    }
+    .data2{
+        margin: 0 0 0 96px;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 150%;
+        color: #C3B6B6
+    }
+    .flexboxalt{
+        display: flex;
+        flex-direction: column;
+    }
+    .nefsp21{
+        margin: 20px 0 0 94px;
+        width: 852px;
+        height: 362px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .nefsp22{
+        margin: 90px 0 0 -700px;
+        width: 1615px;
+        height: 655px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .nefs1{
+        width: 505px;
+        height: 882px;
+        background: #F5F5F5;
+    }
+    .nefsimg{ 
+        width: 505px;
+        height: 350px;
+    }
+    .nefsimg1{
+        width: 695px;
+        height: 482px;
+    }
+    .allnefs{
+        margin: 50px 0 0 0;
+    }
+    .nefsflex1{
+        display: flex;
+    }
+    .nefstext{
+        margin: 0 0 0 43px;
+        height: 183px;
+        width: 432px;
+    }
+    .data{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 150%;
+        color: #C3B6B6
+    }
+    .nefssof{
+        width: 426px;
+        height: 80px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 40px;
+        color: #000000;
+    }
+    .nefsp{
+        width: 423px;
+        height: 183px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .nefs11{
+        margin: 0 0 0 50px;
+        width: 505px;
+        height: 882px;
+        background: #F5F5F5;
+    }
+    .nefsflex2{
+        margin: 52px 0 0 0;
+        display: flex;
+    }
+    footer{
+        margin-top: 100px;
+        height: 54px;
+        width: auto;
+        display: flex;
+        background: #EFEFEF;
+    }
+    .toystr{
+        margin: 18px 0 0 27px ;
+        font-family: 'Akrobat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        color: #7E7E7E;
+    }
+    .headtwo{
+        margin: 18px 0 0 550px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: #7E7E7E;
+    }
+    .heh{
+        margin-right: 53px;
+        text-decoration: none;   
+    }
+    .logo2{
+        display: flex;
+        margin: 15px 0 0 1580px;
+    }
+    .hrevpr2{
+        color: #CE0002;
+    }
+}
+@media only screen and (max-width: 1024px){
+    
+}
+@media only screen and (max-width: 375px){
+    
+}

@@ -1,0 +1,294 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=PT+Serif:ital,wght@1,700&display=swap');
+@media only screen and (max-width: 1920px){
+    body{
+        font-family: 'PT Serif';
+        margin: 0;
+        padding: 0;
+    }
+    a{
+      text-decoration: none;
+    }
+    li{
+        margin: 0 0 0 -20px;
+    }
+    .vad{
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .box{
+        width: 657px;
+        height: 1110px;
+    }
+    .head{
+        display: flex;
+    }
+    .imgheal{
+        margin: 23px 0 0 45px;
+    }
+    .mainhref{
+        margin: 48px 0 0 auto;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        text-align: right;
+        display: flex;
+    }
+    .hrevpr{
+        margin-right: 53px;
+        text-decoration: none;
+        color: black;
+    }
+    .eng{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        display: flex;
+        margin: 45px 0 0 45px;
+    }
+    .ez{
+
+        width: 120px;
+        height: 120px;
+        background: #CE0002;
+    }
+    .gaemone{
+        display: flex;
+        margin: 20px 0 0 140px;
+        width: 1350px;
+        height: 666px;
+    }
+    .gaeminfo{
+        margin: 58px 0 0 0;
+        width: 609px;
+        height: 499px;
+    }
+    .gaemn{
+        font-style: normal;
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 85px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .mefc{
+        margin: 220px 0 0 0;
+    }
+    .gaemp{
+        width: 606px;
+        height: 240px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .purplbak{
+        margin: -4160px 0 0 786px;
+        top: 0px;
+        width: 1070px;
+        height: 1042px;
+        background: #D3D1E9;
+    }
+    .imgpur{
+        margin: 50px 0 0 400px;
+    }
+    .vac{
+        margin: 300px 0 0 120px;
+        width: 703px;
+        height: 160px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 85px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .vacall{
+        margin: 0 0 0 120px;
+    }
+    .vacflex1{
+        margin: 50px 0 0 0;
+        display: flex;
+    }
+    .vacbox{
+        margin: 0 0 0 0px;
+        display: flex;
+        width: 505px;
+        height: 505px;
+        background: #CE0002;
+    }
+    .vacboxone{
+        margin: 0px 0 0 50px;
+        display: flex;
+        width: 505px;
+        height: 505px;
+        background: #CE0002;
+    }
+    .userac{
+        width: 254px;
+        height: 80px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 40px;
+        margin: 380px 0 0 40px;
+        color: white;
+    }
+    .redboxpd{
+        margin: 410px 0 0 -18px;
+        width: 192px;
+        height: 94px;
+        background: #CE0002;
+    }
+    .redboxpd1{
+        padding: 35px 0 0 0;
+        width: 192px;
+        height: 74px;
+        background: #CE0002;
+    }
+    .pd{
+        margin: 45px 0 0 45px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 31px;
+        line-height: 27px;
+        color: #FFFFFF;
+    }
+    .pd1{
+        margin: 45px 0 0 45px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 31px;
+        line-height: 27px;
+        color: #FFFFFF;
+    }
+    .allinfo{
+        margin: 200px 0 0 130px;
+    }
+    .userh{
+        width: 603px;
+        height: 255px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 85px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .info{
+        margin: 400px 0 0 150px;
+        display: flex;
+    }
+    .mecreat{
+        width: 603px;
+        height: 255px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 85px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .toytext{
+        margin: 50px 0 0 0 ;   
+        width: 706px;
+        height: 240px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .alllogs{
+        margin: 0 0 0 100px;
+    }
+    .logoflex1{
+        display: flex;
+    }
+    .logo1{
+        width: 170px;
+        height: 272px;
+    }
+    .logo1img{
+        width: 160px;
+        height: 162px;
+    }
+    .logop1{
+        margin: -10px 0 0 0;
+        width: 152px;
+        height: 55px;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 44px;
+        line-height: 55px;
+        color: #000000;
+    }
+    .logop2{
+        margin: 10px 0 0 0;
+        width: 220px;
+        height: 30px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #7D7A9A;
+    }
+    .logo11{
+        margin: 0 0 0 300px;
+    }
+    .logoflex11{
+        margin: 100px 0 0 0;
+        display: flex;
+    }
+    footer{
+        margin-top: 100px;
+        height: 54px;
+        width: auto;
+        display: flex;
+        background: #EFEFEF;
+    }
+    .toystr{
+        margin: 18px 0 0 27px ;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        color: #7E7E7E;
+    }
+    .headtwo{
+        margin: 18px 0 0 550px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: #7E7E7E;
+    }
+    .heh{
+        margin-right: 53px;
+        text-decoration: none;   
+    }
+    .logo2{
+        display: flex;
+        margin: 15px 0 0 1540px;
+    }
+    .hrevpr2{
+        color: #CE0002;
+    }
+}
+@media only screen and (max-width: 1024px){
+    
+}
+@media only screen and (max-width: 375px){
+    
+}

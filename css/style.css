@@ -1,0 +1,733 @@
+
+@import 
+url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=PT+Serif:ital,wght@1,700&display=swap');
+@media only screen and (max-width: 1920px){
+    body{
+        font-family: 'PT Serif';
+        
+        margin:0px;
+        padding: 0; 
+    }
+    a{
+        text-decoration: none;
+    }
+
+    .wietbox{
+        margin:-973px 0 0 280px ;
+        width: 1592px;
+        height: 919px;
+        background: #FFEA2F;
+    }
+    .head{
+        display: flex;
+    }
+    .imgheal{
+        margin: 23px 0 0 45px;
+    }
+    .mainhref{
+        margin: 48px 0 0 auto;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        text-align: right; 
+        display: flex;
+    }
+    .hrevpr{
+        margin-right: 53px;
+        text-decoration: none;
+        color: black;
+    }
+    .eng{
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        display: flex;
+        margin: 45px 0 0 45px;
+    }
+    .ez{
+
+        width: 120px;
+        height: 120px;
+        background: #CE0002;
+    }
+    .info{
+        display: flex;
+    }
+    .mecreat{
+        margin: 100px 0 0 88px;
+        width: 1077px;
+        height: 255px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 72px;
+        line-height: 85px;
+        text-transform: uppercase;
+        
+        color: #000000;
+        
+    }
+    .tack{
+        padding: 169px 0 0 -100px;
+        width: 786px;
+        height: 733px;
+    }
+    .cav{
+        margin: -150px 0 0 66px ;
+        width: 459px;
+        height: 90px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000
+    }
+    .redbox{
+        padding-top: 5px;
+        margin: -150px 0 0 95px ;
+        width: 120px;
+        height: 120px;
+        background: #CE0002;
+    }
+    .yz{
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 27px;
+        color: #FFFFFF;
+        display: flex;
+        margin: 29px 0 0 5px;
+    }
+    .boxes{
+        margin-top: -100px;
+        display: flex;
+
+    }
+    .logo{
+       margin: -150px 0 0 90px;
+        width: 32px;
+        height: 282px;
+    }
+    footer{
+        margin-top: 30px;
+        height: 54px;
+        width: auto;
+        display: flex;
+        background: #EFEFEF;
+    }
+    .toystr{
+        margin: 18px 0 0 27px ;
+        font-family: 'Akrobat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        color: #7E7E7E;
+    }
+    .headtwo{
+        margin: 18px 0 0 550px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: #7E7E7E;
+    }
+    .heh{
+        margin-right: 53px;
+        text-decoration: none;   
+    }
+    .logo2{
+        display: flex;
+        margin: 15px 0 0 1570px;
+    }
+    .hrevpr2{
+        color: #CE0002;
+    }
+    .close-popup{
+        position: absolute;
+        top:-2222px;
+    }
+    .mainhref1{
+        position: absolute;
+        top:-2222px;
+    }
+}
+@media only screen and (max-width: 1550px){
+    body{
+        font-family: 'PT Serif';
+        margin:0px;
+        padding: 0; 
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+    a{
+        text-decoration: none;
+    }
+    .wietbox{
+        margin:-1900px 0 0 280px ;
+        width: 1592px;
+        height: 919px;
+        background: #FFEA2F;
+    }
+
+    .head{
+        display: flex;
+    }
+    .imgheal{
+        margin: 23px 0 0 45px;
+    }
+    .mainhref{
+        margin: 48px 0 0 auto;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        text-align: right; 
+        display: flex;
+    }
+    .hrevpr{
+        margin-right: 53px;
+        text-decoration: none;
+        color: black;
+    }
+    .eng{
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        display: flex;
+        margin: 45px 0 0 45px;
+    }
+    .ez{
+        width: 120px;
+        height: 120px;
+        background: #CE0002;
+    }
+    .info{
+        display: flex;
+    }
+    .mecreat{
+        margin: 100px 0 0 88px;
+        width: 1077px;
+        height: 255px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 42px;
+        line-height: 55px;
+        text-transform: uppercase;
+        color: #000000;
+        
+    }
+    .tack{
+        padding: 169px 0 0 -100px;
+        width: 586px;
+        height: 533px;
+    }
+    .cav{
+        margin: -120px 0 0 16px ;
+        width: 459px;
+        height: 90px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+        color: #000000
+    }
+    .redbox{
+        padding-top: 5px;
+        margin: -150px 0 0 55px ;
+        width: 120px;
+        height: 120px;
+        background: #CE0002;
+    }
+    .yz{
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 27px;
+        color: #FFFFFF;
+        display: flex;
+        margin: 29px 0 0 5px;
+    }
+    .boxes{
+        margin-top: -100px;
+        display: flex;
+
+    }
+    .logo{
+       margin: -150px 0 0 90px;
+        width: 32px;
+        height: 282px;
+    }
+    footer{
+        margin-top: 10px;
+        height: 54px;
+        width: auto;
+        display: flex;
+        background: #EFEFEF;
+    }
+    .toystr{
+        margin: 18px 0 0 27px ;
+        font-family: 'Akrobat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        color: #7E7E7E;
+    }
+    .headtwo{
+        margin: 18px 0 0 550px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: #7E7E7E;
+    }
+    .heh{
+        margin-right: 53px;
+        text-decoration: none;   
+    }
+    .logo2{
+        display: flex;
+        margin: 15px 0 0 1590px;
+    }
+    .hrevpr2{
+        color: #CE0002;
+    }
+    .close-popup{
+        margin: 0 0 0 -10000px;
+    }
+    .mainhref1{
+        margin: 0 0 0 -10000px;
+    }
+}
+@media only screen and (max-width: 1160px){
+    body{
+        font-family: 'PT Serif';
+        margin:0px;
+        padding: 0; 
+        overflow-x: hidden;
+        
+    }
+    .popup-bg{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background: rgba(253, 253, 253, 0.9);
+        top: 0;
+        left: 0px;
+        display: none;
+    }
+    .popup{
+        position: absolute;
+        top: 152px;
+        left: 30px;
+        width: 274px;
+        height: 456px;
+
+    }
+    .close-popup{
+        position: absolute;
+        margin-left:-1px;
+        width: 40px;
+        height: 40px;
+        left: -10.92px;
+        top: -120px;
+        
+    }
+    .mainhref1{
+        position: absolute;
+        top: 10px;
+        left: 10px; 
+        margin: 10px 0 0 30px;
+    }
+    .hrevpr11{
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 120%;
+        color: #000000;
+    }
+    .hrevpr111{
+        margin-top: 15px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 120%;
+        color: #000000;
+    }
+    .da{
+        margin: 20px 0 0 0;
+    }
+    a{
+        text-decoration: none;
+    }
+    .wietbox{
+        margin: -1027px 0 0 80px ;
+        width: 927px;
+        height: 1469px;
+        background: #FFEA2F;
+    }
+
+    .head{
+        display: flex;
+    }
+    .menu{
+        margin: 25px 0 0 20px;
+    }
+    .line{
+        margin-top: 10px;
+        width: 34px;
+        height: 3px;
+        background: #000000;
+    }
+    .imgheal{
+        margin: 0 0 0 25px;
+    }
+    .mainhref{
+        margin: -1000px 0 0 auto;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        text-align: right; 
+        display: flex;
+    }
+    .hrevpr{
+        margin-right: 53px;
+        text-decoration: none;
+        color: black;
+    }
+    .eng{
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        display: flex;
+        margin: 35px 0 0 31px;
+    }
+    .ez{
+        margin: 0 0 0 -1000px;
+        width: 98px;
+        height: 98px;
+        background: #CE0002;
+    }
+    .info{
+        display: flex;
+    }
+    .mecreat{
+
+        font-style: normal;
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 85px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .tack{
+        position: absolute;
+        width: 786px;
+        height: 733px;
+        left: 189px;
+        top: 694px;
+    }
+    .cav{
+        position: absolute;
+        width: 459px;
+        height: 90px;
+        left: 233px;
+        top: 634px;
+    }
+    .redbox{
+        padding-top: 5px;
+        margin: 150px 0 0 -90px ;
+        width: 120px;
+        height: 120px;
+        background: #CE0002;
+    }
+    .yz{
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 27px;
+        color: #FFFFFF;
+        display: flex;
+        margin: 29px 0 0 5px;
+    }
+    .boxes{
+        margin-top: -100px;
+        display: flex;
+
+    }
+    .logo{
+       margin: -1250px 0 0 90px;
+        width: 32px;
+        height: 282px;
+    }
+    footer{
+        margin-top: 550px;
+        height: 54px;
+        width: auto;
+        display: flex;
+        background: #EFEFEF;
+    }
+    .toystr{
+        margin: 19px 0 0 10px ;
+        font-family: 'Akrobat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        color: #7E7E7E;
+    }
+    .headtwo{
+        margin: 18px 0 0 550px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: #7E7E7E;
+    }
+    .heh{
+        margin-right: 53px;
+        text-decoration: none;   
+    }
+    .logo2{
+        display: flex;
+        margin: 15px 0 0 105px;
+    }
+    .hrevpr2{
+        color: #CE0002;
+    } 
+}
+@media only screen and (max-width: 375px){
+    body{
+        font-family: 'PT Serif';
+        margin:0px;
+        padding: 0; 
+        overflow-x: hidden;
+        
+    }
+    .popup-bg{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background: rgba(253, 253, 253, 0.9);
+        top: 0;
+        left: 0px;
+        display: none;
+    }
+    .popup{
+        position: absolute;
+        top: 152px;
+        left: 30px;
+        width: 274px;
+        height: 456px;
+
+    }
+    .close-popup{
+        position: absolute;
+        margin-left:-1px;
+        width: 40px;
+        height: 40px;
+        left: -10.92px;
+        top: -120px;
+        
+    }
+    .mainhref1{
+        position: absolute;
+        top: 10px;
+        left: 10px; 
+        margin: 10px 0 0 30px;
+    }
+    .hrevpr11{
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 120%;
+        color: #000000;
+    }
+    .hrevpr111{
+        margin-top: 15px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 120%;
+        color: #000000;
+    }
+    .da{
+        margin: 20px 0 0 0;
+    }
+    a{
+        text-decoration: none;
+    }
+    .wietbox{
+        margin: -1027px 0 0 80px ;
+        width: 305px;
+        height: 973px;
+        background: #FFEA2F;
+    }
+
+    .head{
+        display: flex;
+    }
+    .menu{
+        margin: 25px 0 0 20px;
+    }
+    .line{
+        margin-top: 10px;
+        width: 34px;
+        height: 3px;
+        background: #000000;
+    }
+    .imgheal{
+        margin: 0 0 0 25px;
+    }
+    .mainhref{
+        margin: -1000px 0 0 auto;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        text-align: right; 
+        display: flex;
+    }
+    .hrevpr{
+        margin-right: 53px;
+        text-decoration: none;
+        color: black;
+    }
+    .eng{
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        display: flex;
+        margin: 35px 0 0 31px;
+    }
+    .ez{
+        margin: 0 0 0 -1000px;
+        width: 98px;
+        height: 98px;
+        background: #CE0002;
+    }
+    .info{
+        display: flex;
+    }
+    .mecreat{
+        margin: 20px 0 0 5px;
+        width: 330px;
+        height: 215px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 38px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .tack{
+        margin: -420px 0 0 -150px;
+        width: 245px;
+        height: 222px;
+    }
+    .cav{
+        margin: 50px 0 0 -220px;
+        width: 305px;
+        height: 60px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 20px;
+        color: #000000;
+    }
+    .redbox{
+        padding-top: 5px;
+        margin: 300px 0 0 -90px ;
+        width: 120px;
+        height: 120px;
+        background: #CE0002;
+    }
+    .yz{
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 27px;
+        color: #FFFFFF;
+        display: flex;
+        margin: 29px 0 0 5px;
+    }
+    .boxes{
+        margin-top: -100px;
+        display: flex;
+
+    }
+    .logo{
+       margin: -1250px 0 0 90px;
+        width: 32px;
+        height: 282px;
+    }
+    footer{
+        margin-top: 150px;
+        height: 54px;
+        width: auto;
+        display: flex;
+        background: #EFEFEF;
+    }
+    .toystr{
+        margin: 19px 0 0 10px ;
+        font-family: 'Akrobat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        color: #7E7E7E;
+    }
+    .headtwo{
+        margin: 18px 0 0 550px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: #7E7E7E;
+    }
+    .heh{
+        margin-right: 53px;
+        text-decoration: none;   
+    }
+    .logo2{
+        display: flex;
+        margin: 15px 0 0 105px;
+    }
+    .hrevpr2{
+        color: #CE0002;
+    }
+}

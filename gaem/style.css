@@ -1,0 +1,287 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=PT+Serif:ital,wght@1,700&display=swap');
+@media only screen and (max-width: 1920px){
+    body{
+        font-family: 'PT Serif';
+        margin: 0;
+        padding: 0;
+    }
+    a{
+        text-decoration: none;
+    }
+    .des{
+        margin-top: -10px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 52px;
+        line-height: 65px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .imgwind{
+        margin: 0 0 0 70px;
+    }
+    .pmar{
+        margin-top: -20px;
+    }
+    .ts{
+        margin: -40px 0 0 0;
+        width: 512px;
+        height: 330px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .plau{
+        margin-right: 92px;
+    }
+    .imggaem1{
+        width: 505px;
+        height: 344px;
+    }
+    .flex{
+        display: flex;
+    }
+    .popup-bg{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgb(0,0,0,0.8);
+        display: none;
+    }
+    .popup{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 1110px;
+        background-color: #ffffff;
+        padding: 20px;
+        transform: translate(-50%,-50%);
+        padding-top: 60px;
+    }
+    .close-popup{
+        position: absolute;
+        top: 30px;
+        right: 30px;
+        width: 10px;
+        height: 10px;
+    }
+    .head{
+        display: flex;
+    }
+    .imgheal{
+        margin: 23px 0 0 45px;
+    }
+    .mainhref{
+        margin: 48px 0 0 auto;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        text-align: right;
+        display: flex;
+    }
+    .hrevpr{
+        margin-right: 53px;
+        text-decoration: none;
+        color: black;
+    }
+    .eng{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        display: flex;
+        margin: 45px 0 0 45px;
+    }
+    .ez{
+
+        width: 120px;
+        height: 120px;
+        background: #CE0002;
+    }
+    .gaemone{
+        display: flex;
+        margin: 20px 0 0 140px;
+        width: 1350px;
+        height: 666px;
+    }
+    .gaeminfo{
+        margin: 58px 0 0 0;
+        width: 609px;
+        height: 499px;
+    }
+    .gaemn{
+        width: 603px;
+        height: 85px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 85px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .gaemp{
+        width: 606px;
+        height: 240px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .purplbak{
+        margin: -4500px 0 0 786px;
+        top: 0px;
+        width: 1070px;
+        height: 1042px;
+        background: #D3D1E9;
+    }
+    .imgpur{
+        margin: 50px 0 0 400px;
+    }
+    .geamprem{
+        margin: 382px 0 0 80px;
+        
+    }
+    .onegaem{
+        margin-top:243px ;
+        display: flex;
+    }
+    .onegaemimg{
+        margin: 70px 0 0   546px;
+        width: 495px;
+        height: 495px;
+    }
+    .onegaemh{
+        width: 603px;
+        height: 170px;
+        left: 185px;
+        top: 304px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 85px;
+        text-transform: uppercase;
+        color: #000000
+    }
+    .onegaemp1{
+        margin-top: -50px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .onegaemp2{
+        width: 606px;
+        height: 120px;
+        left: 188px;
+        top: 496px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .twogaem{
+        margin: 243px 0 0 ;
+        display: flex;
+    }
+    .twogaemimg{
+        width: 495px;
+        height: 495px;
+    }
+    .twogaeminfo{
+        margin: 0 0 0 546px;
+    }
+    .twogaemh{
+        margin: -10px 0 0 0;
+        width: 603px;
+        height: 170px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 72px;
+        line-height: 85px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    .twogaemp1{
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .twogaemp2{
+        width: 606px;
+        height: 110px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 30px;
+        color: #000000;
+    }
+    .redboxpd{
+        width: 202px;
+        height: 84px;
+        padding: 45px 0 0 45px;
+        background: #CE0002;
+    }
+    .pd{
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 27px;
+        color: #FFFFFF;
+    }
+    footer{
+        margin-top: 300px;
+        height: 54px;
+        width: auto;
+        display: flex;
+        background: #EFEFEF;
+    }
+    .toystr{
+        margin: 18px 0 0 27px ;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        color: #7E7E7E;
+    }
+    .headtwo{
+        margin: 18px 0 0 550px;
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: #7E7E7E;
+    }
+    .heh{
+        margin-right: 53px;
+        text-decoration: none;   
+    }
+    .logo2{
+        display: flex;
+        margin: 15px 0 0 1540px;
+    }
+    .hrevpr2{
+        color: #CE0002;
+    }
+}
+@media only screen and (max-width: 1024px){
+    
+}
+@media only screen and (max-width: 375px){
+    
+}
